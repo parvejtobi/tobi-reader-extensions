@@ -11,7 +11,7 @@
       "type": "manga",
       "description": "The largest manga database.",
       "iconUrl": "",
-      "apkUrl": "https://github.com/parvejtobi/tobi-reader-extensions/releases/download/v1.0.0/mangadex.apk",
+      "apkUrl": "https://raw.githubusercontent.com/parvejtobi/tobi-reader-extensions/main/apks/mangadex.apk",
       "sourceUrl": "https://github.com/parvejtobi/tobi-reader-extensions"
     }
   ]
